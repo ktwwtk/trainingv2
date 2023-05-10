@@ -7,6 +7,10 @@
             // hello 
             Console.WriteLine("Siema!");
             Console.WriteLine("Hi!");
+
+            // method 1()
+            // method2()
+            // method3()
         }
     }    
 }
