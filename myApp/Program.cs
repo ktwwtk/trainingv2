@@ -6,6 +6,7 @@
         {
             // hello 
             Console.WriteLine("Siema!");
+            Console.WriteLine("Hi!");
         }
     }    
 }
